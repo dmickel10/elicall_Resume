@@ -2,83 +2,72 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Eli Call
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="elibcall54@gmail.com">elibcall54@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/eli-call/">LinkedIn</a>
+| <a href="https://github.com/elibcall54">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2026`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 4.0 GPA
+- Data Science Society - Student Member
 
 
 ## Related Experience
 
-### Internships
+`June 2022 - August 2022`
+__Boy Scouts of America__, Stanley, ID
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Lead groups of 30 people over 100 miles of river
+- Oversaw the work of 5 guides and taught how to read the river and work as a team
+- Solved problems of all varieties promptly and efficiently to ensure everyone’s safet
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`December 2022 - April 2023`
+__Idaho Pacific Holdings__, Ririe, ID
+- Labored in more positions than all 5 part-time employees, while working in a  loud environment
+- Produced over 10,000 pounds of potato flour regularly in a 6 hour period, sometimes working alone due to a lack of 
+employees
 
-### Data Science Lead
+`December 2016 - March 2019`
+__Kelly Canyon Ski Resort__, Ririe, ID
+- Taught clients from 6 years old to 60 years old how to snowboard, from private one on one lessons to groups up to 10 
+students
+- Maintained students confidence and composure during stressful situations by teaching in a way everyone could understand 
+to help students be comfortable riding down without an instructor within 1 hour
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Projects
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`September 2022 - December 2022`
+__Data Science Society__
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Use web scraping tools in python to create code to locate property listings from over 10 
+property information for a real estate agency’s client 
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+## Volunteer Experience
 
-### Data Science Consulting Team
+`October 2019 - October 2021`
+__The Church of Jesus Christ of Latter-Day Saints__
+- Uplifted communities and families during Covid-19 by providing community service and helping others reach personal
+goals
+- Collaborated with 20+ volunteers in humanitarian service in order to meet community needs
+- Learned to see needs in an organization and set appropriate goals to boost efficiency by making monthly goals with 20+ 
+volunteers
 
-`January 2027 - April 2027`
-__Imagine Learning__
+## Skills
+- English (Native), Portuguese (Conversant), Spanish (Basic)
+- Computing in Python (intermediate)
+- Mathematics and analytics
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
