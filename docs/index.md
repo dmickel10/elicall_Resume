@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Eli Call's Resume
 ---
 # Eli Call
 
 
 <div id="webaddress">
 <a href="elibcall54@gmail.com">elibcall54@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/eli-call/">LinkedIn</a>
 | <a href="https://github.com/elibcall54">GitHub</a>
 </div>
@@ -42,7 +41,7 @@ employees
 __Kelly Canyon Ski Resort__, Ririe, ID
 - Taught clients from 6 years old to 60 years old how to snowboard, from private one on one lessons to groups up to 10 
 students
-- Maintained students confidence and composure during stressful situations by teaching in a way everyone could understand 
+- Maintained students' confidence and composure during stressful situations by teaching in a way everyone could understand 
 to help students be comfortable riding down without an instructor within 1 hour
 
 ### Projects
